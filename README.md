@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-mia-b551a9149)  
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/faridmia)
-[StackOverflow Profile](https://stackoverflow.com/users/18300132/faridmia23)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18300132/faridmia23)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=faridmia&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
