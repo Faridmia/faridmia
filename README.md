@@ -5,14 +5,14 @@
 ## 🚀 About Me
 
 - 🎯 I specialize in **WordPress Theme & Plugin Development**
-- 💡 Experienced in **WooCommerce & Shopify App Development**
-- 📩 Contact me: [your-email@example.com](mailto:your-email@example.com)
+- 💡 Experienced in **WooCommerce & PHP, WordPress**
+- 📩 Contact me: [mdfarid7830@gmail.com](mailto:mdfarid7830@gmail.com)
 
 ## 🛠 Skills
 
 - 💻 **Languages:** PHP, JavaScript, HTML, CSS
 - ⚡ **Frameworks & CMS:** WordPress, WooCommerce, Laravel
-- 🔧 **Tools:** Git, GitHub, Figma, VS Code
+- 🔧 **Tools:** Git, GitHub, Figma, VS Code,Docker
 
 ## 📈 GitHub Stats
 
@@ -23,7 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-mia-b551a9149)  
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/faridmia/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faridmia&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=faridmia&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faridmia&layout=compact&theme=dark)
