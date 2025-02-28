@@ -30,4 +30,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faridmia&layout=compact&theme=dark)
 
+## Leetcode Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/APON11?ext=heatmap&animation=true)](https://leetcode.com/faridmia/)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=faridmia&color=blue)
