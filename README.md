@@ -32,6 +32,6 @@
 
 ## Leetcode Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/APON11?ext=heatmap&animation=true)](https://leetcode.com/faridmia/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/faridmia?ext=heatmap&animation=true)](https://leetcode.com/faridmia/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=faridmia&color=blue)
