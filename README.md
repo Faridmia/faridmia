@@ -1,3 +1,5 @@
+![I am a WordPress Developer]
+
 # 👋 Hi there 👋, my name is Farid Mia
 
 "As a WordPress developer, I am passionate about building high-quality WordPress Themes and plugins that enhance functionality and user experience. My expertise lies in PHP, MySQL, JavaScript, and React, along with a deep understanding of WordPress core development. I specialize in creating scalable, maintainable, and performance-optimized solutions for web applications. With strong skills in PHP, WordPress, I am committed to delivering seamless and efficient digital experiences." 🚀
@@ -21,7 +23,8 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-mia-b551a9149)  
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/faridmia/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/faridmia)
+[StackOverflow Profile](https://stackoverflow.com/users/18300132/faridmia23)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=faridmia&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
