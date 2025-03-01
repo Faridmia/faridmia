@@ -14,7 +14,7 @@
 
 - 💻 **Languages:** PHP, JavaScript, HTML, CSS
 - ⚡ **Frameworks & CMS:** WordPress, WooCommerce, Laravel
-- 🔧 **Tools:** Git, GitHub, Figma, VS Code,Docker
+- 🔧 **Tools:** Git, GitHub, VS Code,Docker
 
 ## 📈 GitHub Stats
 
